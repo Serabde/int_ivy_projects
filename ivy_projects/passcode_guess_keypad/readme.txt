@@ -1,0 +1,1 @@
+This program emulates a home alarm system. A pre-programmed 4-digit passcode is hard coded in, and the program will wait for the user to input 4 digits on the keypad module. Indicator LEDS will light up to indicate whether the user has successfully entered the passcode and disarmed the alarm.

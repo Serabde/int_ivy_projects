@@ -1,0 +1,1 @@
+This program emulates a moving line (like a snake) that moves with the joystick on the MAX display. Note that this program does not erase the LED of the previous dot, and thus does not clear the screen as the joystick is moved.

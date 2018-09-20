@@ -1,0 +1,1 @@
+This program is a (very very fun, kids love it) game of snake, played with the MAX module and the joystick module. The speed of the game can be changed by changing the (int speed) variable; change down for speed increase, change up for speed decrease.

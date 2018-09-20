@@ -1,0 +1,1 @@
+Intgrates the joystick module with the RGB LED. The levels of red and green are controlled by the movement of the joystick. The level of blue is controlled by the amount of time the joystick switch is held down.
